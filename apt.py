@@ -2,7 +2,7 @@ import numpy
 import scipy.io.wavfile
 import scipy.signal
 import sys
-import PIL
+import PIL.Image
 
 
 class APT(object):
